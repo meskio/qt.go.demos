@@ -3,7 +3,7 @@
 ### Build
 
     cd qmldemo/
-    go-uic rcc.qrc
+    go-rcc rcc.qrc
     go build .
 
 ### Run
